@@ -5,7 +5,7 @@ export default () => {
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <a className="navbar-brand" href="#">Google Books Search</a>
+        <a className="navbar-brand" href="/">Google Books Search</a>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav mr-auto">
             <li className="nav-item active">
